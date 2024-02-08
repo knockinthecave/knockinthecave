@@ -1,7 +1,3 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Crane's%20GitHub&fontSize=90)
-</div>
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
