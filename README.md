@@ -45,9 +45,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knockinthecave)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/knockinthecave)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://knockinthecave.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/knockinthecave](https://www.linkedin.com/in/%EC%84%B1%EB%B2%94-%EC%9D%B4-b97b19323/))
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@crane2356)
 
 ---
 
