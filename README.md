@@ -1,8 +1,8 @@
-# Hello, I'm Knockinthecave! 👋
+# Hello, I'm Seong Beom Lee! 👋
 
 ## About Me
 
-🎯 **Focused on:** Full-stack Development, Data Science, and Machine Learning  
+🎯 **Focused on:** Backend, Desktop Application
 🔍 **Exploring:** Open Source Contributions, DevOps, and AI Research  
 🚀 **Currently working on:** Building scalable web applications and exploring cutting-edge technologies
 
