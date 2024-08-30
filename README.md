@@ -45,12 +45,12 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/knockinthecave](https://www.linkedin.com/in/%EC%84%B1%EB%B2%94-%EC%9D%B4-b97b19323/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/knockinthecave](https://www.linkedin.com/in/성범-이-b97b19323/))
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@crane2356)
 
 ---
 
 ## 📫 How to reach me
 
-- Email: knockinthecave@example.com  
+- Email: crane2356@naver.com  
 - GitHub Issues: [knockinthecave/issues](https://github.com/knockinthecave/knockinthecave/issues)
