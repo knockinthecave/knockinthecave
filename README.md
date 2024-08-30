@@ -2,9 +2,9 @@
 
 ## About Me
 
-🎯 **Focused on:** Full-stack Development, Software Architecture, and Cloud Services  
-🔍 **Exploring:** Open Source Contributions, DevOps, and Advanced Web Development  
-🚀 **Currently working on:** Building robust and scalable applications using modern technologies
+🎯 **Focused on:** Backend Development, Windows Application Development, and Cloud Development  
+🔍 **Exploring:** DevOps, CI/CD, and Kubernetes  
+🚀 **Currently working on:** Developing a Manufacturing Execution System (MES) with a backend built using Django and FastAPI, and a web frontend built with React
 
 ---
 
@@ -19,6 +19,7 @@
   ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
   ![WinForm](https://img.shields.io/badge/-WinForm-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 
 - **Databases:**  
