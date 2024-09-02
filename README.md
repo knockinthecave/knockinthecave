@@ -4,7 +4,7 @@
 
 🎯 **Focused on:** Backend Development, Windows Application Development, and Cloud Development  
 🔍 **Exploring:** DevOps, CI/CD, and Kubernetes  
-🚀 **Currently working on:** Developing a Manufacturing Execution System (MES) with a backend built using Django and FastAPI, and a web frontend built with React
+🚀 **Currently working on:** Developing a Manufacturing Execution System (MES) and Dashboard with a backend built using Django and FastAPI, and a web frontend built with React
 
 ---
 
