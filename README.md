@@ -20,7 +20,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) 
   ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![Nginx](https://img.shields.io/badge/Nginx-1.x-brightgreen?logo=nginx)
+  ![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
   ![WinForm](https://img.shields.io/badge/-WinForm-0078D6?style=flat-square&logo=microsoft&logoColor=white)
 
 - **Databases:**  
