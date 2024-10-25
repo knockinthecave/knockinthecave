@@ -3,7 +3,7 @@
 ## About Me
 
 🎯 **Focused on:** Backend Development, Windows Application Development, and Cloud Development  
-🔍 **Exploring:** DevOps, CI/CD, and Kubernetes  
+🔍 **Exploring:** DevOps, CI/CD, Redis, FastAPI and Kubernetes  
 🚀 Current Role: Backend Developer for a mobile application, focusing on API design and deployment to create a seamless user experience
 
 ---
