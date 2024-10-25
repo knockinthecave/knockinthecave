@@ -51,5 +51,5 @@
 
 ## 📫 How to reach me
 
-- Email: crane2356@naver.com  
+- Email: crane2356@naver.com / crane@eggbomb.ltd
 - GitHub Issues: [knockinthecave/issues](https://github.com/knockinthecave/knockinthecave/issues)
